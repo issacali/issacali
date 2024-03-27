@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @issacali
+- 👋 Hi, I’m Iqbal ali.
 - 👀 I’m interested in ...Data science
 - 🌱 I’m currently learning ...AI,Machine learning,  
 - 💞️ I’m looking to collaborate on ...python data science 
